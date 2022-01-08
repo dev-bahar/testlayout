@@ -2,11 +2,8 @@ import React from 'react'
 
 export function withAuth<P>(WrappedComponent:React.ComponentType<P>) {
     const  ComponentWithAuth=(props:P)=> {
-       
-       
-           return <WrappedComponent {...props} />
-       
-       
-       return null;
+       //some code
+        //if user logged In
+           return <WrappedComponent {...props} />      
    }
 }
