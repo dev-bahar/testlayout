@@ -1,0 +1,13 @@
+StringContent
+AuthenticationHeaderValue
+ModelState.AddModelError
+HttpContext.Session.SetString
+ObjectResult
+RedirectToAction
+Task.FromResult
+[NonAction]
+_client.DefaultRequestHeaders.Authorization 
+_httpClientFactory.CreateClient
+SqlParameter
+Tuple.Create
+ex.Class==16
